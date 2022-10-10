@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "白",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "orrqs6clEabBnTh0UDcah6YE32ls",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "4pzbRnRVXjXFuH-fWhEpfXBBZaKMWuWnwrqD2SHYvRU",
       // 所在省份
@@ -99,7 +99,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "orrqs6Q8Ehbrjavp0UPz50F5K0CM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "Rvh-uq9cpm_7EyedfsVvpS_udYWmJ0wf7AIZBd8HS9M",
+      useTemplateId: "4pzbRnRVXjXFuH-fWhEpfXBBZaKMWuWnwrqD2SHYvRU",
       // 所在省份
       province: "湖南",
       // 所在城市
