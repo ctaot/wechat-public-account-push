@@ -41,7 +41,7 @@ export const USER_CONFIG = {
     poetry: false,
     
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
     
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "白",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "orrqs6clEabBnTh0UDcah6YE32ls",
+      id: "",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "4pzbRnRVXjXFuH-fWhEpfXBBZaKMWuWnwrqD2SHYvRU",
       // 所在省份
