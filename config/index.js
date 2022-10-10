@@ -113,7 +113,7 @@ export const USER_CONFIG = {
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-        {"type": "*生日", "name": "小白", "year": "2004", "date": "08-11"},
+        {"type": "*生日", "name": "白", "year": "2004", "date": "08-11"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {"type": "*生日", "name": "T", "year": "2003", "date": "08-10"},
         {"type": "节日", "name": "纪念日", "year": "2022", "date": "10-01"},
@@ -123,30 +123,6 @@ export const USER_CONFIG = {
         // 在一起的日子
         {"keyword": "love_day", date: "2022-10-01"},
       ]
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
     },
     // 你可以不断按格式往下增加
     // ...
